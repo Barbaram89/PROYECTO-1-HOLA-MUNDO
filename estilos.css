@@ -6,6 +6,30 @@
 }
 h1{
     font-size: 40px;
-color: ;}
-    
+color: red;
+}
+  nav{
+    background-color: 
+    gray;
+    width: 100%;
+    max-width: 2560px;
+    height: 10vh;
+    min-height: 80px;
+
+  }  
+  header{
+    width: 100%;
+    background-color:
+    aquamarine;
+    height: 90vh;
+    background-image: url("./MicrosoftTeams-image.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+  }
 
